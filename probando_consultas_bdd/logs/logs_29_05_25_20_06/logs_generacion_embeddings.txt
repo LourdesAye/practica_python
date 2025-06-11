@@ -1,0 +1,86 @@
+2025-05-29 20:06:47,405 - DEBUG - ✅ Base vectorial creada con éxito.
+2025-05-29 20:06:47,515 - DEBUG - 🔝 MÁS PARECIDA:
+2025-05-29 20:06:47,516 - DEBUG - Pregunta: buenas, consulta, es lo mismo usar el cliente desktop de github que github por la web?
+2025-05-29 20:06:47,516 - DEBUG - Metadatos: {'id': 16}
+2025-05-29 20:06:47,516 - DEBUG - Similitud: 0.6140
+2025-05-29 20:06:47,516 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,516 - DEBUG - 🔍 Resultado #2:
+2025-05-29 20:06:47,516 - DEBUG - Pregunta: hola! tengo una pregunta, instalé github desktop y estoy tratando de probar los comandos de git que aparecen en el video, pero no me reconoce el comando "git". quería saber si debo instalar algo más?
+2025-05-29 20:06:47,519 - DEBUG - Metadatos: {'id': 6}
+2025-05-29 20:06:47,519 - DEBUG - Similitud: 0.3162
+2025-05-29 20:06:47,519 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,519 - DEBUG - 🔍 Resultado #3:
+2025-05-29 20:06:47,519 - DEBUG - Pregunta: tenes git instalado? porque quizás es eso lo que falta
+2025-05-29 20:06:47,519 - DEBUG - Metadatos: {'id': 7}
+2025-05-29 20:06:47,519 - DEBUG - Similitud: 0.0701
+2025-05-29 20:06:47,519 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,519 - DEBUG - 🔍 Resultado #4:
+2025-05-29 20:06:47,519 - DEBUG - Pregunta: buenas, está disponible el repositorio del ejercicio del seminario?
+2025-05-29 20:06:47,519 - DEBUG - Metadatos: {'id': 28}
+2025-05-29 20:06:47,519 - DEBUG - Similitud: 0.0567
+2025-05-29 20:06:47,519 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,519 - DEBUG - 🔍 Resultado #5:
+2025-05-29 20:06:47,519 - DEBUG - Pregunta: buenas <@256866066288869386> , <@713942897468375041> nos pueden pasar su link del repositorio para poder corregirles la entrega? por otro lado <@343564273823383556> te mandé dm para coordinarnos.
+2025-05-29 20:06:47,519 - DEBUG - Metadatos: {'id': 410}
+2025-05-29 20:06:47,519 - DEBUG - Similitud: -0.0022
+2025-05-29 20:06:47,519 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,580 - DEBUG - 🔝 MÁS PARECIDA:
+2025-05-29 20:06:47,580 - DEBUG - Pregunta: buenas tardes, cual sería la diferencia entre estas dos flechas del patron strategy? porque la flecha verde es de asociación la roja no sé
+2025-05-29 20:06:47,580 - DEBUG - Metadatos: {'id': 389}
+2025-05-29 20:06:47,580 - DEBUG - Similitud: 0.3397
+2025-05-29 20:06:47,580 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,580 - DEBUG - 🔍 Resultado #2:
+2025-05-29 20:06:47,580 - DEBUG - Pregunta: buenas! tengo una consulta sobre el patrón state. los estados que derivan de la interfaz, ¿pueden tener atributos propios?
+2025-05-29 20:06:47,580 - DEBUG - Metadatos: {'id': 392}
+2025-05-29 20:06:47,580 - DEBUG - Similitud: 0.3330
+2025-05-29 20:06:47,580 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,580 - DEBUG - 🔍 Resultado #3:
+2025-05-29 20:06:47,580 - DEBUG - Pregunta: buenas! en el patrón strategy, la clase contexto podría tener una lista de estrategias y usar this.estrategias.foreach{e -> e.ejecutar()} en su método actuar?
+2025-05-29 20:06:47,580 - DEBUG - Metadatos: {'id': 54}
+2025-05-29 20:06:47,580 - DEBUG - Similitud: 0.1400
+2025-05-29 20:06:47,581 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,581 - DEBUG - 🔍 Resultado #4:
+2025-05-29 20:06:47,581 - DEBUG - Pregunta: buenas! unas consultas sobre el patrón state.
+las relaciones de dependencia entre los estados: 
+1. ¿son obligatorias? 
+2. en caso no de serlo, ¿en qué caso irían? 
+3. ¿es relevante la dirección de la relación?
+4. ¿en algún caso serían bidireccionales?
+2025-05-29 20:06:47,581 - DEBUG - Metadatos: {'id': 70}
+2025-05-29 20:06:47,581 - DEBUG - Similitud: 0.0976
+2025-05-29 20:06:47,581 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,581 - DEBUG - 🔍 Resultado #5:
+2025-05-29 20:06:47,581 - DEBUG - Pregunta: hola a todos! perdon la hora :)
+estabamos haciendo la actividad cuidandonos y tenemos una duda existencial je.
+en el punto 7 entendemos que tenemos que usar un patron strategy para hacer extensible los posibles nuevos casos de reaccion pero no sabemos muy bien como hacer para pasarles parametros distintos que necesita cada uno de los metodos. (el primero la lista de cuidadores, el tercero el celular, etc) algo que recomienden para terminar de entender este concepto?
+se me ocurre agregar esos datos como atributos de la clase de "contexto" (la persona activa) pero no me parece muy bonito
+2025-05-29 20:06:47,581 - DEBUG - Metadatos: {'id': 385}
+2025-05-29 20:06:47,581 - DEBUG - Similitud: 0.0798
+2025-05-29 20:06:47,581 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,599 - DEBUG - 🔝 MÁS PARECIDA:
+2025-05-29 20:06:47,599 - DEBUG - Pregunta: hola, una consulta, yo seguí estás instrucciones para instalar maven y pese a todo no me resultó, la principal situación que me encuentro es que la variable de sistema java_home no existe, busqué como setearla lo cual hice y aún así maven sigue sin figurar, java por otro lado figura correctamente
+2025-05-29 20:06:47,599 - DEBUG - Metadatos: {'id': 17}
+2025-05-29 20:06:47,599 - DEBUG - Similitud: 0.2557
+2025-05-29 20:06:47,599 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,599 - DEBUG - 🔍 Resultado #2:
+2025-05-29 20:06:47,599 - DEBUG - Pregunta: buenas noches, yo tenía una pregunta acerca del seminario de java. quería saber si el try y catch es para exception y runtimexception o es para alguna de las dos específicamente, ya que eso no me quedó muy claro
+2025-05-29 20:06:47,599 - DEBUG - Metadatos: {'id': 23}
+2025-05-29 20:06:47,599 - DEBUG - Similitud: 0.2334
+2025-05-29 20:06:47,599 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,599 - DEBUG - 🔍 Resultado #3:
+2025-05-29 20:06:47,599 - DEBUG - Pregunta: buenas tardes, una duda muy pequeña: en el seminario de java se habla de dependencia. es un sinonimo de biblioteca o se diferencia en algo?
+2025-05-29 20:06:47,599 - DEBUG - Metadatos: {'id': 344}
+2025-05-29 20:06:47,599 - DEBUG - Similitud: 0.1947
+2025-05-29 20:06:47,599 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,599 - DEBUG - 🔍 Resultado #4:
+2025-05-29 20:06:47,599 - DEBUG - Pregunta: buenas noches, tengo una duda al momento de crear el proyecto. no me aparece sdk como en el video y solo tengo la opción de eclipse y no me aparece java aunque chequee por consola y lo tengo instalado
+2025-05-29 20:06:47,599 - DEBUG - Metadatos: {'id': 352}
+2025-05-29 20:06:47,599 - DEBUG - Similitud: 0.1712
+2025-05-29 20:06:47,599 - DEBUG - ----------------------------------------
+2025-05-29 20:06:47,600 - DEBUG - 🔍 Resultado #5:
+2025-05-29 20:06:47,600 - DEBUG - Pregunta: hola!
+tengo una consulta técnica de java: en una clase se puede declarar una lista en donde el tipo sea la clase misma? 
+por ejemplo, tengo una clase "materia" y quiero que tenga un atributo "correlativas" que sea una lista donde, justamente, el tipo sea una "materia"
+2025-05-29 20:06:47,600 - DEBUG - Metadatos: {'id': 348}
+2025-05-29 20:06:47,600 - DEBUG - Similitud: 0.1414
+2025-05-29 20:06:47,600 - DEBUG - ----------------------------------------

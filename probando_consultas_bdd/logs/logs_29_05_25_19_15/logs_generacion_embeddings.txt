@@ -1,0 +1,12 @@
+2025-05-29 19:15:04,626 - DEBUG - 🗑️ Base vectorial eliminada.
+2025-05-29 19:15:34,838 - DEBUG - ✅ Base vectorial creada con éxito.
+2025-05-29 19:15:34,935 - DEBUG - 🔍 Resultados similares:
+2025-05-29 19:15:34,935 - DEBUG - ----------------------------------------
+2025-05-29 19:15:34,935 - DEBUG - Pregunta: buenas, consulta, es lo mismo usar el cliente desktop de github que github por la web?
+2025-05-29 19:15:34,935 - DEBUG - Metadatos:{'id': 16}
+2025-05-29 19:15:34,935 - DEBUG - ----------------------------------------
+2025-05-29 19:15:34,935 - DEBUG - Pregunta: hola! tengo una pregunta, instalé github desktop y estoy tratando de probar los comandos de git que aparecen en el video, pero no me reconoce el comando "git". quería saber si debo instalar algo más?
+2025-05-29 19:15:34,938 - DEBUG - Metadatos:{'id': 6}
+2025-05-29 19:15:34,938 - DEBUG - ----------------------------------------
+2025-05-29 19:15:34,938 - DEBUG - Pregunta: tenes git instalado? porque quizás es eso lo que falta
+2025-05-29 19:15:34,938 - DEBUG - Metadatos:{'id': 7}

@@ -1,0 +1,1 @@
+2025-05-29 17:59:13,633 - DEBUG - 🗑️ Base vectorial eliminada.
